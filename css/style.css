@@ -1,0 +1,62 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    position: relative;
+}
+.white-div {
+    position: absolute;
+    left: 40%;
+    top: 70px;
+    background-color: hsl(0, 0%, 100%);
+    height: 500px;
+    width: 300px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    border-radius: 19px;
+
+}
+
+.pic-div {
+    position: absolute;
+    left: 25px;
+    top: 20px;
+    /* background-color: whitesmoke; */
+    height: 270px;
+    width: 250px;
+}
+
+.first-note {
+    position: absolute;
+    left: 25px;
+    top: 300px;
+    height: 70px;
+    width: 250px;
+    /* background-color: blueviolet; */
+}
+
+.second-note {
+    position: absolute;
+    left: 25px;
+    top: 380px;
+    height: 70px;
+    width: 250px;
+    /* background-color: brown; */
+}
+
+img {
+    height: 270px;
+    width: 250px;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    border-radius: 19px;
+
+}
+
+h2 {
+    font-weight: 200px;
+    font-family: Outfit;
+}
+
+p {
+    font-family: Outfit;    
+    color: hsl(220, 15%, 55%);
+}
